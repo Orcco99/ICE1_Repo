@@ -12,7 +12,10 @@ public class CardTrick {
        Card a1 = new Card(); // new card object
         a1.getSuit();
         a1.getValue();
-        // adding mehtods to return the card value and suit but Card class has no constructro, so won't work 
+        // adding methods to return the card value and suit but Card class has no constructro, so won't work 
+        
+        Card b2 = new Card();// second card object after fetch and merge operation
+        
     }
     
 }
